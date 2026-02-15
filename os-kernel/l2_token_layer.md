@@ -111,7 +111,7 @@ This format captures the shape of the token architecture without exposing underl
 
 ---
 
-## ### 5 Interaction With L1 and L3 Layers
+5 Interaction With L1 and L3 Layers
 
 L1 → L2
 
