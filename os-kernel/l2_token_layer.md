@@ -127,11 +127,11 @@ The mapping logic itself remains private.
 
 ## ### 6. Intended Extension Points (Public View)
 
-- `Additional sector mappings via L3'
-- `Expanded context and complexity token sets'
-- `Multinational regulatory classifications'
-- `Integration with permitting knowledge bases'
-- `Climate and terrain factor extensions'
+- Additional sector mappings via L3
+- Expanded context and complexity token sets
+- Multinational regulatory classifications
+- Integration with permitting knowledge bases
+- Climate and terrain factor extensions
 
 These highlight architectural direction without revealing the operational engine.
 
@@ -141,14 +141,14 @@ These highlight architectural direction without revealing the operational engine
 
 The following are intentionally not included in this public specification:
 
-- `cost logic'
-- `time / duration logic'
-- `risk scoring logic'
-- `geotechnical transformation'
-- `AI-token generation rules'
-- `BIM → autodetails pipeline'
-- `deterministic mapping and weighting models'
-- `proprietary sector ontologies'
+- cost logic
+- time / duration logic
+- risk scoring logic
+- geotechnical transformation
+- AI-token generation rules
+- BIM → autodetails pipeline
+- deterministic mapping and weighting models
+- proprietary sector ontologies
 
 These remain part of BeeAi’s private IP.
 
