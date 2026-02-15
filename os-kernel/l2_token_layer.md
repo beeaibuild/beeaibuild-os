@@ -24,7 +24,7 @@ This public specification intentionally omits private mapping logic, weights, an
 
 ---
 
-## ### 2. High-Level Concept
+## 2. High-Level Concept
 
 L2 tokens are **abstracted descriptors** of a project’s environment and functional composition.  
 They serve as the common language between:
@@ -37,7 +37,7 @@ The token layer ensures that any project can be interpreted using a **shared voc
 
 ---
 
-## ### 3. Token Categories (Public Simplified Set)
+## 3. Token Categories (Public Simplified Set)
 
 ### **3.1 Project-Context Tokens**
 Describe where the project exists.
@@ -90,7 +90,7 @@ These ensure uniform temporal reasoning across sectors.
 
 ---
 
-## ### 4. Token Structure (Public Minimal Format)
+## 4. Token Structure (Public Minimal Format)
 
 ```json
 {
@@ -111,7 +111,7 @@ This format captures the shape of the token architecture without exposing underl
 
 ---
 
-## ###5 Interaction With L1 and L3 Layers
+## 5. Interaction With L1 and L3 Layers
 
 L1 → L2
 
@@ -125,7 +125,7 @@ The mapping logic itself remains private.
 
 ---
 
-## ### 6. Intended Extension Points (Public View)
+## 6. Intended Extension Points (Public View)
 
 - Additional sector mappings via L3
 - Expanded context and complexity token sets
@@ -137,7 +137,7 @@ These highlight architectural direction without revealing the operational engine
 
 ---
 
-## ### 7. Explicitly Out of Scope (Private Components)
+## 7. Explicitly Out of Scope (Private Components)
 
 The following are intentionally not included in this public specification:
 
@@ -154,7 +154,7 @@ These remain part of BeeAi’s private IP.
 
 ---
 
-## ### 8. Summary
+## 8. Summary
 
 The L2 Token Layer defines the neutral reasoning vocabulary that enables BeeAi OS to analyze any infrastructure project at an early stage.
 It forms the bridge between human intent (L1) and sector-specific domain models (L3), while protecting all proprietary logic and algorithms.
