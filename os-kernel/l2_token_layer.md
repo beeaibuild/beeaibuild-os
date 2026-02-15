@@ -92,7 +92,6 @@ These ensure uniform temporal reasoning across sectors.
 
 ## ### 4. Token Structure (Public Minimal Format)
 
-```json
 {
   "token_id": "string",
   "category": "context | functional | complexity | phase",
@@ -111,7 +110,7 @@ This format captures the shape of the token architecture without exposing underl
 
 ---
 
-5 Interaction With L1 and L3 Layers
+## ###5 Interaction With L1 and L3 Layers
 
 L1 → L2
 
