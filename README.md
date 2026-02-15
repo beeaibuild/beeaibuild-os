@@ -8,7 +8,7 @@ The purpose of this repository is to document the reasoning layers, data structu
 process models and translation logic that allow large infrastructure workflows  
 to be represented as **AI-compatible, deterministic decision elements**.
 
-This repository is conceptual, not operational**.
+**This repository is conceptual, not operational**.
 
 ---
 
