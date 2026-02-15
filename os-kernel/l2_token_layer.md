@@ -92,6 +92,7 @@ These ensure uniform temporal reasoning across sectors.
 
 ## ### 4. Token Structure (Public Minimal Format)
 
+```json
 {
   "token_id": "string",
   "category": "context | functional | complexity | phase",
@@ -105,7 +106,7 @@ These ensure uniform temporal reasoning across sectors.
     "l3_ref": ["optional_domain_links"]
   }
 }
-
+```
 This format captures the shape of the token architecture without exposing underlying logic, formulas, or mappings.
 
 ---
