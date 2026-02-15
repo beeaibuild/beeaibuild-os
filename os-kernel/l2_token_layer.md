@@ -9,7 +9,7 @@ It transforms L1 intent into reusable, comparable, domain-agnostic elements with
 
 ---
 
-## ### 1. Purpose of the L2 Token Layer
+## 1. Purpose of the L2 Token Layer
 
 The L2 Token Layer provides a unified structure that BeeAi OS uses to represent:
 
