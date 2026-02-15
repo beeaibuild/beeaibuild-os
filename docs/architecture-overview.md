@@ -8,36 +8,39 @@ This overview explains how the layers interact, and how they form a consistent o
 
 ## 1. Architectural Diagram
 
-+-----------------------------------------------------------+
-| L6 – Cost–Time–Risk |
-| (structural shells for estimation, no formulas exposed) |
-+---------------------------▲-------------------------------+
-|
-+-----------------------------------------------------------+
-| L5 – Feasibility Layer |
-| (constraint model: physical, regulatory, functional, |
-| stakeholder – qualitative only) |
-+---------------------------▲-------------------------------+
-|
-+-----------------------------------------------------------+
-| L4 – Permitting Intelligence |
-| (permit clusters, dependency chains, approval gates) |
-+---------------------------▲-------------------------------+
-|
-+-----------------------------------------------------------+
-| L3 – Sector Ontology Layer |
-| (domain structure: transport, utilities, buildings, gov) |
-+---------------------------▲-------------------------------+
-|
-+-----------------------------------------------------------+
-| L2 – Token Layer |
-| (neutral, abstract data units for cross-sector reasoning)|
-+---------------------------▲-------------------------------+
-|
-+-----------------------------------------------------------+
-| L1 – Functional Intent Layer |
-| (machine-readable expression of human goals) |
-+-----------------------------------------------------------+
+```text
++-------------------------------+   L6 – Cost–Time–Risk Layer
+|  Structural shells only       |
+|  (no formulas exposed)        |
++-------------------------------+
+
++-------------------------------+   L5 – Feasibility Layer
+|  Physical / regulatory /      |
+|  functional / stakeholder     |
+|  qualitative reasoning        |
++-------------------------------+
+
++-------------------------------+   L4 – Permitting Intelligence
+|  Permit clusters,             |
+|  dependency chains,           |
+|  approval gateways            |
++-------------------------------+
+
++-------------------------------+   L3 – Sector Ontology Layer
+|  Domain structure: transport, |
+|  utilities, buildings, gov    |
++-------------------------------+
+
++-------------------------------+   L2 – Token Layer
+|  Neutral, abstract data units |
+|  for cross-sector reasoning   |
++-------------------------------+
+
++-------------------------------+   L1 – Functional Intent Layer
+|  Machine-readable expression  |
+|  of human goals               |
++-------------------------------+
+```
 
 ---
 
