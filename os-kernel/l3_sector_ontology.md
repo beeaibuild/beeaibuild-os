@@ -72,7 +72,7 @@ These names reflect conceptual models; real L3 structure is deeper and private.
     "children": ["optional_subcomponents"]
   }
 }
-...
+```
 
 This format shows how ontologies are shaped without revealing any proprietary mapping rules.
 
