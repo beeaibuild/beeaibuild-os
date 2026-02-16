@@ -11,10 +11,10 @@
 │
 ├── docs/
 │   ├── architecture-overview.md
-│   ├── gov-reasoning-layer.md
 │   ├── cost-time-risk-engine.md
-│   ├── tender-permitting-model.md
-│   └── roadmap.md
+│   ├── glossary.md
+│   ├── gov-reasoning-layer.md
+│   └── kernel-overview.md
 │
 ├── examples/
 │   ├── highway-infrastructure.md
