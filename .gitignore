@@ -1,0 +1,81 @@
+# ----------------------------------------------------------------------
+# BeeAi OS – Universal .gitignore
+# Supports: Node.js, Python, VSCode, macOS, Linux
+# Safe for a documentation-first research repository
+# ----------------------------------------------------------------------
+
+### OS FILES ###
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+### EDITOR / IDE ###
+# VSCode
+.vscode/
+.history/
+*.code-workspace
+
+# JetBrains
+.idea/
+
+### PYTHON ###
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.eggs/
+
+### NODE / JAVASCRIPT ###
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+.cache/
+
+### LOGS ###
+logs/
+*.log
+*.log.*
+
+### ENVIRONMENT / SECRETS ###
+.env
+.env.*
+*.env.local
+.envrc
+
+### TEMP / BACKUP FILES ###
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+### DOCUMENTATION GENERATED FILES ###
+# (If later you add auto-generated docs or PDF builds)
+docs/_build/
+*.pdf~
+
+### REPOSITORY-SPECIFIC ###
+# Ignore local pipeline experiments
+local/
+scratch/
+sandbox/
+drafts/
+notebooks/
