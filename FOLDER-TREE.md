@@ -23,8 +23,11 @@
 │
 ├── os-kernel/
 │   ├── l1_specification.md
-│   ├── l2_tokenization_examples.md
-│   └── l3_reasoning_patterns.md
+│   ├── l2_token_layer.md
+│   ├── l3_sector_ontology_layer.md
+│   ├── l4_permitting_layer.md
+│   ├── l5_feasibility_layer.md
+│   └── l6_cost_time_risk_engine_layer.md
 │
 ├── pipelimes/
 │   ├── ai-feedback-loop.md
