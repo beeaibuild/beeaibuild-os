@@ -30,7 +30,7 @@
 │   ├── l5_feasibility_layer.md
 │   └── l6_cost_time_risk_engine_layer.md
 │
-├── pipelimes/
+├── pipelines/
 │   ├── ai-feedback-loop.md
 │   ├── data-validation-pipeline.md
 │   ├── early-stage-resoning.md
