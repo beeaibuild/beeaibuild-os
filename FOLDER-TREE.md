@@ -1,3 +1,4 @@
+```text
 /beeaibuild-os
 │
 ├── README.md
@@ -20,3 +21,4 @@
 │   └── l3_reasoning_patterns.md
 │
 └── .gitignore
+```
