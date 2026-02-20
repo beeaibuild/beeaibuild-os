@@ -1,6 +1,8 @@
 ```text
 /beeaibuild-os
 │
+├── ENTRY-POINT.md
+│
 ├── FOLDER-TREE.md
 │
 ├── README.md
